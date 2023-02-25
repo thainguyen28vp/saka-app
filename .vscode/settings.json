@@ -1,0 +1,18 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "14.248.83.178",
+      "port": 3020,
+      "driver": "MySQL",
+      "name": "STAKA",
+      "database": "staka",
+      "username": "staka",
+      "password": "windsoft@2022"
+    }
+  ]
+}

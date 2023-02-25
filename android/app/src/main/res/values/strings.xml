@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">STAKA</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">gvCPuXVtOyzyen1Uqc6EQXlXeVTxvwYy6-SGK</string>
+</resources>
